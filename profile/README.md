@@ -19,7 +19,7 @@ Our mission is to provide powerful developer tools, intuitive dashboards, and a 
 - **Backend:** Node.js  
 - **Frontend:** React  
 - **Orchestration:** Kubernetes  
-- **Database:** Supabase  
+- **Database:** SurrealDB  
 
 ---
 
