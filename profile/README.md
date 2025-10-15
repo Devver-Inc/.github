@@ -56,7 +56,8 @@ Our mission is to provide powerful developer tools, intuitive dashboards, and a 
 
 - [Organization GitHub](https://github.com/orgs/Devver-Inc)  
 - [Linear Workspace](https://linear.app/devver)  
-- [Eraser Workspace](https://app.eraser.io/workspace/7QUtptxpSNWFtK4TtGCN)  
+- [Eraser Workspace](https://app.eraser.io/workspace/7QUtptxpSNWFtK4TtGCN)
+- [Figma Workspace](https://www.figma.com/design/0VqzSAKq1GLdvVkryn10wH/DevveR-Design?node-id=0-1&t=Lf5cKSRHcDfNk8yQ-1&fuid=1137369083064790430)
 
 ---
 
